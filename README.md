@@ -8,4 +8,4 @@ Nintendo - Made Captain Toad, and Super Gems!
 
 Shinkin - Main programmer, made the idea.
 
-NTBeta - Gave suggestions 
+NTBeta - Secondary programmer, gave suggestions. 
